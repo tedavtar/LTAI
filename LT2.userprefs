@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIScripts/LoadBoard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIScripts/LoadBoard.cs" Line="211" Column="24" />
+      <File FileName="Assets/Scripts/UIScripts/Tile.cs" Line="22" Column="124" />
+      <File FileName="../../board/Assets/Scripts/Board.js" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
